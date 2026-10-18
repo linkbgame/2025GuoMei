@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f7da26f3b1540d947ad95e7791c239fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scheduleData: {fileID: 11400000, guid: bef5af9ba1588e5418391abe2231ac89, type: 2}
+  - blankAnimationClip: {fileID: 7400000, guid: 500fefed8113b4f7e8f2dc728631a63d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

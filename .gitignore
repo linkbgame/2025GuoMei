@@ -1,0 +1,95 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity crash / misc
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+
+# Plastic / Collaborate
+*.private
+*.private.meta
+collabignore.txt
+
+# Cursor / local tooling (不上传本地 IDE 配置)
+.cursor/
+.codex/
+.dotnet/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# 暂不上传大量美术资产（本地仍保留，克隆仓库的人拿不到这些贴图/音频）
+/Assets/Art/
+/Assets/Art.meta
+/Assets/资产迭代完成版/
+/Assets/资产迭代完成版.meta
+/Assets/png/
+/Assets/png.meta
+/Assets/Fy_Assets/Art/
+/Assets/Fy_Assets/Art.meta
+/Assets/Lrb_Assets/UI国美资产/
+/Assets/Lrb_Assets/UI国美资产.meta
+/Assets/Lrb_Assets/_Graphics/
+/Assets/Lrb_Assets/_Graphics.meta
+/Assets/Lrb_Assets/Fronts/
+/Assets/Lrb_Assets/Fronts.meta
+/Assets/Lrb_Assets/Audio/
+/Assets/Lrb_Assets/Audio.meta
+/Assets/*.png
+/Assets/*.jpg
+/Assets/*.jpeg
+/Assets/*.psd
+/Assets/*.tga
+/Assets/*.tif
+/Assets/*.tiff
+# 对应贴图的 .meta 一并排除，避免空引用文件
+/Assets/*.png.meta
+/Assets/*.jpg.meta
+/Assets/*.jpeg.meta
+/Assets/*.psd.meta
+/Assets/*.tga.meta
+/Assets/*.tif.meta
+/Assets/*.tiff.meta
+
+# 第三方美术包与本机重复工程副本
+/Assets/other/M Studio/Art/
+/Assets/other/M Studio/Art.meta
+/场景演示/
+/场景演示_dst/

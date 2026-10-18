@@ -1,0 +1,41 @@
+Copyright (c) 2025-2026 阿彬. All rights reserved.
+
+本许可协议适用于本仓库中的全部内容，包括但不限于源代码、场景、Prefab、
+Shader、美术资源、音频、文档及元数据（统称「本作品」）。
+
+一、权利归属
+  本作品的著作权及一切相关知识产权归版权所有人「阿彬」所有。
+  本仓库公开不构成权利转让或默许商用。
+
+二、允许的使用（非商业）
+  在遵守本协议的前提下，你可以：
+  - 个人学习、研究、教学演示（非收费）；
+  - 在本地运行、调试、修改本作品；
+  - 在注明出处与版权信息的前提下，分享你的学习笔记或衍生 Demo（同样不得商用）。
+
+三、禁止的使用
+  未经版权所有人书面许可，不得：
+  - 将本作品或其中任何部分用于任何商业目的；
+  - 发布收费或含商业广告（含内购、订阅、赞助变现等）的产品；
+  - 出售、出租、转让、再授权本作品或衍生版本；
+  - 移除或篡改版权声明与本许可文件。
+
+四、第三方组件
+  本作品可能包含 Spine、DOTween、A* Pathfinding 等第三方插件或资源，
+  其使用仍受各自授权条款约束；本许可不替代第三方许可。
+
+五、免责声明
+  本作品按「现状」提供，不提供任何明示或默示担保。
+  版权所有人不对因使用本作品产生的任何损失承担责任。
+
+六、商用授权
+  如需商用，请联系版权所有人取得书面授权：llrbking0@gmail.com
+
+---
+
+ENGLISH SUMMARY (non-binding translation):
+
+All rights reserved by 阿彬. Non-commercial use for learning and research is
+permitted with attribution. Commercial use, redistribution for profit, or
+removal of copyright notices is prohibited without prior written permission.
+Contact: llrbking0@gmail.com for commercial licensing.
